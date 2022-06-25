@@ -1,0 +1,12 @@
+{
+	"name": "@prokopschield/scheduler",
+	"description": "a fair scheduler",
+	"version": "0.1.0-1",
+	"main": "lib/index.js",
+	"author": "Prokop Schield",
+	"devDependencies": {
+		"@types/node": ">=14"
+	},
+	"keywords": [],
+	"license": "GPL-3.0-or-later"
+}
